@@ -23,6 +23,10 @@
 #### AI Risk
 
 ## Data Science (ML)
+### Mathematical and Statistical Background
+#### Probability and Statistical Inference
+#### Stochastic Calculus
+#### Optimization
 ### Exploratory Data Analaysis
 ### Statistical and Machine Learning Models
 #### Supervised Learning 
@@ -33,12 +37,24 @@
 #### Recomendation System
 #### A/B test
 #### Time Series Analysis
+#### Survival Analysis
 
 
 ## Machine Learning Engineering (Ops)
 ### Data Engineering
+#### Data Storage
+##### Database
+##### Data Lake/Warehouse/Lakehouse
+#### Data Transformation
+### Containerization
+#### Docker 
+#### Kubernetes
 ### Orchestration
-### Distributed Computing
+#### Jenkins
+#### Airflow
+### Distributed and Parallel Computing
+#### Spark
 ### Model Deployment
 #### Dashboard
 #### API
+#### Web Development
