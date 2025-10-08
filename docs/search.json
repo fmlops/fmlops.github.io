@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "book",
+    "title": "Financial Machine Learning Ops",
     "section": "",
     "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
     "crumbs": [
@@ -10,32 +10,46 @@
     ]
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
+    "objectID": "part1/ch1-macro.html",
+    "href": "part1/ch1-macro.html",
+    "title": "1  Macro Econ",
+    "section": "",
+    "text": "\\[\\int_a^bf(x)dx=F(b)-F(a)\\]",
+    "crumbs": [
+      "Part 1 Financial Domain Knowledge",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Macro Econ</span>"
+    ]
+  },
+  {
+    "objectID": "part2/intro.html",
+    "href": "part2/intro.html",
+    "title": "2  Introduction",
     "section": "",
     "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+      "Part 2: ML",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
     ]
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
+    "objectID": "part2/summary.html",
+    "href": "part2/summary.html",
+    "title": "3  Summary",
     "section": "",
     "text": "In summary, this book has no content whatsoever.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+      "Part 2: ML",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Summary</span>"
     ]
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
+    "objectID": "part9/references.html",
+    "href": "part9/references.html",
     "title": "References",
     "section": "",
     "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
+      "Appendices",
       "References"
     ]
   }
