@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Financial Machine Learning Ops",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Preface\nData scientists used to be the sexiest job of the 21st century. I was attracted by this saying at that time and it was one of the reason that I chose data scientist as a career after graduation. One of the most illustrative figure to describe the data scientists’ job is the Venn diagram with the intersection of domain knowledge, math and statistics, and computer science. During the first two decades in the 21st century, the arguably most important and time consuming thing in data scientists’ mind is feature engineering and tunning parameters, while the arguably most important and time consuming thing in data scientists’ real life is cleaning data.\nHowever, with the rapid growth in the tech field,",
     "crumbs": [
       "Preface"
     ]
@@ -16,7 +16,7 @@
     "section": "",
     "text": "\\[\\int_a^bf(x)dx=F(b)-F(a)\\]",
     "crumbs": [
-      "Domain Knowledge (Finance and Investment)",
+      "Part One: Domain Knowledge (Finance and Investment)",
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Macroeconomics</span>"
     ]
   },
@@ -27,7 +27,7 @@
     "section": "",
     "text": "2.1 Accounting",
     "crumbs": [
-      "Domain Knowledge (Finance and Investment)",
+      "Part One: Domain Knowledge (Finance and Investment)",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Accounting and Corporate Finance</span>"
     ]
   },
@@ -38,7 +38,7 @@
     "section": "2.2 Corporate Finance",
     "text": "2.2 Corporate Finance",
     "crumbs": [
-      "Domain Knowledge (Finance and Investment)",
+      "Part One: Domain Knowledge (Finance and Investment)",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Accounting and Corporate Finance</span>"
     ]
   },
@@ -49,7 +49,7 @@
     "section": "",
     "text": "3.1 Interest Rates",
     "crumbs": [
-      "Domain Knowledge (Finance and Investment)",
+      "Part One: Domain Knowledge (Finance and Investment)",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Risk Factors</span>"
     ]
   },
@@ -60,7 +60,7 @@
     "section": "3.2 Credit Spreads",
     "text": "3.2 Credit Spreads",
     "crumbs": [
-      "Domain Knowledge (Finance and Investment)",
+      "Part One: Domain Knowledge (Finance and Investment)",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Risk Factors</span>"
     ]
   },
@@ -71,7 +71,7 @@
     "section": "",
     "text": "4.1 Traditional Investments",
     "crumbs": [
-      "Domain Knowledge (Finance and Investment)",
+      "Part One: Domain Knowledge (Finance and Investment)",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Financial Products</span>"
     ]
   },
@@ -82,7 +82,7 @@
     "section": "",
     "text": "4.1.1 Equity\n\n\n4.1.2 Fixed Income",
     "crumbs": [
-      "Domain Knowledge (Finance and Investment)",
+      "Part One: Domain Knowledge (Finance and Investment)",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Financial Products</span>"
     ]
   },
@@ -93,7 +93,7 @@
     "section": "4.2 Derivatives",
     "text": "4.2 Derivatives",
     "crumbs": [
-      "Domain Knowledge (Finance and Investment)",
+      "Part One: Domain Knowledge (Finance and Investment)",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Financial Products</span>"
     ]
   },
@@ -104,7 +104,7 @@
     "section": "4.3 Alternative Investments",
     "text": "4.3 Alternative Investments\n\n4.3.1 Private\n\n\n4.3.2 Structured Products",
     "crumbs": [
-      "Domain Knowledge (Finance and Investment)",
+      "Part One: Domain Knowledge (Finance and Investment)",
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Financial Products</span>"
     ]
   },
@@ -115,7 +115,7 @@
     "section": "",
     "text": "5.1 Asset Allocation",
     "crumbs": [
-      "Domain Knowledge (Finance and Investment)",
+      "Part One: Domain Knowledge (Finance and Investment)",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Portfolio Management</span>"
     ]
   },
@@ -126,7 +126,7 @@
     "section": "",
     "text": "6.1 Market Risk",
     "crumbs": [
-      "Domain Knowledge (Finance and Investment)",
+      "Part One: Domain Knowledge (Finance and Investment)",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Financial Risk Management</span>"
     ]
   },
@@ -137,7 +137,7 @@
     "section": "6.2 Credit Risk",
     "text": "6.2 Credit Risk",
     "crumbs": [
-      "Domain Knowledge (Finance and Investment)",
+      "Part One: Domain Knowledge (Finance and Investment)",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Financial Risk Management</span>"
     ]
   },
@@ -148,7 +148,7 @@
     "section": "6.3 Operational and Liquidity Risk",
     "text": "6.3 Operational and Liquidity Risk",
     "crumbs": [
-      "Domain Knowledge (Finance and Investment)",
+      "Part One: Domain Knowledge (Finance and Investment)",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Financial Risk Management</span>"
     ]
   },
@@ -159,7 +159,7 @@
     "section": "6.4 AI Risk",
     "text": "6.4 AI Risk",
     "crumbs": [
-      "Domain Knowledge (Finance and Investment)",
+      "Part One: Domain Knowledge (Finance and Investment)",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Financial Risk Management</span>"
     ]
   },
@@ -170,7 +170,7 @@
     "section": "",
     "text": "7.1 Probability and Statistical Inference",
     "crumbs": [
-      "Science (Data Science, Statistics, Machine Learning and AI)",
+      "Part Two: Science (Data Science, Statistics, Machine Learning and AI)",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Mathematical and Statistical Background</span>"
     ]
   },
@@ -181,7 +181,7 @@
     "section": "7.2 Stochastic Calculus",
     "text": "7.2 Stochastic Calculus",
     "crumbs": [
-      "Science (Data Science, Statistics, Machine Learning and AI)",
+      "Part Two: Science (Data Science, Statistics, Machine Learning and AI)",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Mathematical and Statistical Background</span>"
     ]
   },
@@ -192,7 +192,7 @@
     "section": "7.3 Optimization",
     "text": "7.3 Optimization\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
     "crumbs": [
-      "Science (Data Science, Statistics, Machine Learning and AI)",
+      "Part Two: Science (Data Science, Statistics, Machine Learning and AI)",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>Mathematical and Statistical Background</span>"
     ]
   },
@@ -203,7 +203,7 @@
     "section": "",
     "text": "9.1 Supervised Learning",
     "crumbs": [
-      "Science (Data Science, Statistics, Machine Learning and AI)",
+      "Part Two: Science (Data Science, Statistics, Machine Learning and AI)",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Statistical and Machine Learning Models</span>"
     ]
   },
@@ -214,7 +214,7 @@
     "section": "9.2 Unsupervised Learning",
     "text": "9.2 Unsupervised Learning",
     "crumbs": [
-      "Science (Data Science, Statistics, Machine Learning and AI)",
+      "Part Two: Science (Data Science, Statistics, Machine Learning and AI)",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Statistical and Machine Learning Models</span>"
     ]
   },
@@ -225,7 +225,7 @@
     "section": "9.3 Reinforcement Learning",
     "text": "9.3 Reinforcement Learning",
     "crumbs": [
-      "Science (Data Science, Statistics, Machine Learning and AI)",
+      "Part Two: Science (Data Science, Statistics, Machine Learning and AI)",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Statistical and Machine Learning Models</span>"
     ]
   },
@@ -236,7 +236,7 @@
     "section": "9.4 CV",
     "text": "9.4 CV",
     "crumbs": [
-      "Science (Data Science, Statistics, Machine Learning and AI)",
+      "Part Two: Science (Data Science, Statistics, Machine Learning and AI)",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Statistical and Machine Learning Models</span>"
     ]
   },
@@ -247,7 +247,7 @@
     "section": "9.5 NLP",
     "text": "9.5 NLP",
     "crumbs": [
-      "Science (Data Science, Statistics, Machine Learning and AI)",
+      "Part Two: Science (Data Science, Statistics, Machine Learning and AI)",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Statistical and Machine Learning Models</span>"
     ]
   },
@@ -258,7 +258,7 @@
     "section": "9.6 Recomendation System",
     "text": "9.6 Recomendation System",
     "crumbs": [
-      "Science (Data Science, Statistics, Machine Learning and AI)",
+      "Part Two: Science (Data Science, Statistics, Machine Learning and AI)",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Statistical and Machine Learning Models</span>"
     ]
   },
@@ -269,7 +269,7 @@
     "section": "9.7 A/B test",
     "text": "9.7 A/B test",
     "crumbs": [
-      "Science (Data Science, Statistics, Machine Learning and AI)",
+      "Part Two: Science (Data Science, Statistics, Machine Learning and AI)",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Statistical and Machine Learning Models</span>"
     ]
   },
@@ -280,7 +280,7 @@
     "section": "9.8 Time Series Analysis",
     "text": "9.8 Time Series Analysis",
     "crumbs": [
-      "Science (Data Science, Statistics, Machine Learning and AI)",
+      "Part Two: Science (Data Science, Statistics, Machine Learning and AI)",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Statistical and Machine Learning Models</span>"
     ]
   },
@@ -291,7 +291,7 @@
     "section": "9.9 Survival Analysis",
     "text": "9.9 Survival Analysis",
     "crumbs": [
-      "Science (Data Science, Statistics, Machine Learning and AI)",
+      "Part Two: Science (Data Science, Statistics, Machine Learning and AI)",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Statistical and Machine Learning Models</span>"
     ]
   },
@@ -302,7 +302,7 @@
     "section": "",
     "text": "12.1 Data Storage",
     "crumbs": [
-      "Engieering (Data, Software, Machine Learning, AI)",
+      "Part Three: Engineering (Data, Software, Machine Learning, AI)",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Data Engineering</span>"
     ]
   },
@@ -313,7 +313,7 @@
     "section": "12.2 Database",
     "text": "12.2 Database",
     "crumbs": [
-      "Engieering (Data, Software, Machine Learning, AI)",
+      "Part Three: Engineering (Data, Software, Machine Learning, AI)",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Data Engineering</span>"
     ]
   },
@@ -324,7 +324,7 @@
     "section": "12.3 Data Lake/Warehouse/Lakehouse",
     "text": "12.3 Data Lake/Warehouse/Lakehouse",
     "crumbs": [
-      "Engieering (Data, Software, Machine Learning, AI)",
+      "Part Three: Engineering (Data, Software, Machine Learning, AI)",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Data Engineering</span>"
     ]
   },
@@ -335,7 +335,7 @@
     "section": "12.4 Data Transformation",
     "text": "12.4 Data Transformation",
     "crumbs": [
-      "Engieering (Data, Software, Machine Learning, AI)",
+      "Part Three: Engineering (Data, Software, Machine Learning, AI)",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>Data Engineering</span>"
     ]
   },
@@ -346,7 +346,7 @@
     "section": "",
     "text": "14.1 Spark",
     "crumbs": [
-      "Engieering (Data, Software, Machine Learning, AI)",
+      "Part Three: Engineering (Data, Software, Machine Learning, AI)",
       "<span class='chapter-number'>14</span>  <span class='chapter-title'>Distributed and Parallel Computing</span>"
     ]
   },
@@ -357,7 +357,7 @@
     "section": "",
     "text": "15.1 Docker",
     "crumbs": [
-      "Engieering (Data, Software, Machine Learning, AI)",
+      "Part Three: Engineering (Data, Software, Machine Learning, AI)",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Containerization</span>"
     ]
   },
@@ -368,7 +368,7 @@
     "section": "15.2 Kubernetes",
     "text": "15.2 Kubernetes",
     "crumbs": [
-      "Engieering (Data, Software, Machine Learning, AI)",
+      "Part Three: Engineering (Data, Software, Machine Learning, AI)",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Containerization</span>"
     ]
   },
@@ -379,7 +379,7 @@
     "section": "16.1 Jenkins",
     "text": "16.1 Jenkins",
     "crumbs": [
-      "Engieering (Data, Software, Machine Learning, AI)",
+      "Part Three: Engineering (Data, Software, Machine Learning, AI)",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Containerization</span>"
     ]
   },
@@ -390,7 +390,7 @@
     "section": "16.2 Airflow",
     "text": "16.2 Airflow",
     "crumbs": [
-      "Engieering (Data, Software, Machine Learning, AI)",
+      "Part Three: Engineering (Data, Software, Machine Learning, AI)",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Containerization</span>"
     ]
   },
@@ -401,7 +401,7 @@
     "section": "19.1 Dashboard",
     "text": "19.1 Dashboard",
     "crumbs": [
-      "Engieering (Data, Software, Machine Learning, AI)",
+      "Part Three: Engineering (Data, Software, Machine Learning, AI)",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Containerization</span>"
     ]
   },
@@ -412,7 +412,7 @@
     "section": "19.2 API",
     "text": "19.2 API",
     "crumbs": [
-      "Engieering (Data, Software, Machine Learning, AI)",
+      "Part Three: Engineering (Data, Software, Machine Learning, AI)",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Containerization</span>"
     ]
   },
@@ -423,8 +423,30 @@
     "section": "19.3 Web Development",
     "text": "19.3 Web Development",
     "crumbs": [
-      "Engieering (Data, Software, Machine Learning, AI)",
+      "Part Three: Engineering (Data, Software, Machine Learning, AI)",
       "<span class='chapter-number'>15</span>  <span class='chapter-title'>Containerization</span>"
+    ]
+  },
+  {
+    "objectID": "part0/python.html",
+    "href": "part0/python.html",
+    "title": "Appendix B — Python",
+    "section": "",
+    "text": "B.1 Virtual Environment\nCreate a virtual environment\nIn windows\nIn Linux",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Python</span>"
+    ]
+  },
+  {
+    "objectID": "part0/python.html#virtual-environment",
+    "href": "part0/python.html#virtual-environment",
+    "title": "Appendix B — Python",
+    "section": "",
+    "text": "python -m venv venv\n\n# In cmd.exe\nvenv\\Scripts\\activate.bat\n# In PowerShell\nvenv\\Scripts\\Activate.ps1\n\nsource venv/bin/Activate",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Python</span>"
     ]
   },
   {
